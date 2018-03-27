@@ -2,6 +2,8 @@
 
 Mi Préstamo es una plataforma bancaria que permite pedir dinero al banco o ahorrar dinero, como valor agregado ofrece pequeños montos  de préstamo para acceder sin tener cupo además de poder permitir financiar a sí mismo los préstamos sin tener que recurrir al banco.
 
+![miprestamo](https://user-images.githubusercontent.com/32281819/37945211-7f5990a8-3155-11e8-94f1-880da8352b65.png)
+
 ![](https://i.imgur.com/3ZwUVH2.png)
 
 > Una experiencia bancaria para Millennials
