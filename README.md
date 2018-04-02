@@ -23,7 +23,7 @@ Se generó una guía de preguntas para generar un building rapport efectivo tant
 
 Utilizamos affinity map para desglosar las respuestas que nos entregaron los usuarios consultados
 
-![](https://i.imgur.com/CUGxVrW.png)
+![](https://i.imgur.com/yivDh3N.jpg)
 
 Por medio de entrevistas y encuestas encontramos las siguientes problemáticas:
 
