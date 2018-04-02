@@ -4,6 +4,9 @@ Mi Préstamo es una plataforma bancaria que permite pedir dinero al banco o ahor
 
 ![portadamiprestamo](https://user-images.githubusercontent.com/32281819/37946610-a85fe7de-315c-11e8-89ab-c90d6eb281f2.jpg)
 
+## Desarrollado para
+[Laboratoria](http://www.laboratoria.la/)
+
 ![](https://i.imgur.com/3ZwUVH2.png)
 
 > Una experiencia bancaria para Millennials
